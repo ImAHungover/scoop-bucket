@@ -1,5 +1,5 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "description": "Chess against Stockfish with an animated 3D dungeon board",
     "homepage": "https://github.com/ImAHungover/lore-chess-releases",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Saved games and settings are kept in $env:APPDATA\\Godot\\app_userdata\\Lore Chess",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ImAHungover/lore-chess-releases/releases/download/v1.8.1/LoreChess-windows.zip",
-            "hash": "3d0ac70c4f0256db3df9d7487b30284a3cefef6b0767c8ca09426631c2f7aceb"
+            "url": "https://github.com/ImAHungover/lore-chess-releases/releases/download/v1.8.2/LoreChess-windows.zip",
+            "hash": "bb55c5c75abacd041e2a9b15340488b9a1a56aa0275df47598c95edcc11af59e"
         }
     },
     "extract_dir": "windows",

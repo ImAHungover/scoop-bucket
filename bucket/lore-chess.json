@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ImAHungover/lore-chess-releases/releases/download/v1.8.0/LoreChess-windows.zip",
-            "hash": "5fed009b1886e1125a18957e40d9e3f23136711d9e7bf4204a20fb1b0254f932"
+            "hash": "7c3a3f74ac2ae647a1b732601b6c994fed6068fee5c899639924bf4a8010c416"
         }
     },
     "extract_dir": "windows",

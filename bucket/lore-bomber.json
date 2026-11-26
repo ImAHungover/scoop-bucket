@@ -1,5 +1,5 @@
 {
-    "version": "0.15.0",
+    "version": "0.16.0",
     "description": "Arena bomber game in a low-poly dungeon",
     "homepage": "https://github.com/ImAHungover/lore-bomber-releases",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Scores and settings are kept in $env:APPDATA\\Godot\\app_userdata\\Lore Bomber",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ImAHungover/lore-bomber-releases/releases/download/v0.15.0/LoreBomber-windows.zip",
-            "hash": "e42beecfa007754e20801febcb2d12db81de3511d3574a20f60775a9332dd418"
+            "url": "https://github.com/ImAHungover/lore-bomber-releases/releases/download/v0.16.0/LoreBomber-windows.zip",
+            "hash": "9b3baa0eb5fbf6d0ef0af0da66e8af7d0fe994b4ff91d2d2075859d2d7a75b0c"
         }
     },
     "extract_dir": "windows",
